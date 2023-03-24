@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-tst",
+  "version": "1.0.0",
+  "description": "Test of Sequelize with SQLite3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvandroJosias/sequelize-tst.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvandroJosias/sequelize-tst/issues"
+  },
+  "homepage": "https://github.com/EvandroJosias/sequelize-tst#readme",
+  "dependencies": {
+    "sequelize": "^6.29.3",
+    "sqlite3": "^5.1.6"
+  }
+}
